@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pertemuan 3</string>
+    <string name="text_email">Your Email (e.g.  jdoe@gmail.com)</string>
+    <string name="text_password">Your Password</string>
+    <string name="action_login">login</string>
+    <string name="msg_success">Login Success</string>
+    <string name="msg_failed">Login Failed</string>
+</resources>
