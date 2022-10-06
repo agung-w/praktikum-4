@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="app_padding">16dp</dimen>
+    <dimen name="main_title">28sp</dimen>
+    <dimen name="button_1" >0dp</dimen>
+    <dimen name="vertical_margin">50dp</dimen>
 </resources>

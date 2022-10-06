@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.adrian.pertemuan3'
+    namespace 'com.agung.pertemuan3'
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.adrian.pertemuan3"
+        applicationId "com.agung.pertemuan3"
         minSdk 21
         targetSdk 32
         versionCode 1

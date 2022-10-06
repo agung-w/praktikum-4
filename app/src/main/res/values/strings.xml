@@ -5,4 +5,10 @@
     <string name="action_login">login</string>
     <string name="msg_success">Login Success</string>
     <string name="msg_failed">Login Failed</string>
+    <string name="email_missing">Email Can`t be emtpy</string>
+    <string name="password_missing">Password Can`t be emtpy</string>
+    <string name="invalid_type_email">Email should contain @,.com</string>
+    <string name="open_web_button">Open Web</string>
+    <string name="button_dial">contact</string>
+
 </resources>
